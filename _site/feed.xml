@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-09-09T17:05:49+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">W1sfly</title><author><name>W1sfly</name></author><entry><title type="html">Script systemSO</title><link href="http://localhost:4000/script_systemSO/" rel="alternate" type="text/html" title="Script systemSO" /><published>2021-09-09T00:00:00+02:00</published><updated>2021-09-09T00:00:00+02:00</updated><id>http://localhost:4000/script_systemSO</id><content type="html" xml:base="http://localhost:4000/script_systemSO/">&lt;p&gt;&lt;img src=&quot;/assets/images/post_script_systemSO/scriptSO.png&quot; alt=&quot;imagen&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Función&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;El siguiente script nos dará si una máquina está activa o no y su sistema operativo, es un script bastante sencillo pero le he aplicado controles de errores para que funcione perfectamente.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Utilización&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;./systemSO.sh IP&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Descarga&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/W1sfly/systemSO.git&quot;&gt;https://github.com/W1sfly/systemSO.git&lt;/a&gt;&lt;/p&gt;</content><author><name>W1sfly</name></author><category term="script" /><category term="Herramienta" /><category term="bash" /><summary type="html"></summary></entry></feed>

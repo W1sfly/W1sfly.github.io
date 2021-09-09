@@ -19,7 +19,9 @@ El siguiente script nos dará si una máquina está activa o no y su sistema ope
 
 ***Utilización***
 
-./systemSO.sh IP
+* chmod +x systemSO.sh
+
+* ./systemSO.sh IP
 
 ***Descarga***
 

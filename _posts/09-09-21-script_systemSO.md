@@ -1,9 +1,11 @@
 ---
 layout: single
 title: Script systemSO
+excerpt: "Script en bash para identificar si el equipo está activo y su S.O "
 date: 09-09-2021
 header:
-  teaser:
+  teaser: /assets/images/post_script_systemSO/scriptSO.png
+  teaser_home_page: true
 categories:
   - script
   - Herramienta

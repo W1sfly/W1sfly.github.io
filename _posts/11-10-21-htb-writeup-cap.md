@@ -1,9 +1,11 @@
 ---
 layout: single
 title: HTB  CAP
+excerpt: "Máquina HTB - CAP - Dificultad:Easy"
 date: 11-10-2021
 header:
-  teaser:
+  teaser: assets/images/post_HTB_CAP/cap.png
+  teaser_home_page: true
 categories:
   - HTB
   - CTF

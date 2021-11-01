@@ -5,7 +5,7 @@ excerpt: "Máquina HTB - CAP - Dificultad:Easy"
 date: 11-10-2021
 classes: wide
 header:
-  teaser: assets/images/post_HTB_CAP/cap.png
+  teaser: assets/images/post_HTB_CAP/fotocap.png
   teaser_home_page: true
 categories:
   - HTB

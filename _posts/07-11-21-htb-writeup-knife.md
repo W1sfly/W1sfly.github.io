@@ -1,6 +1,6 @@
 ---
 layout: single
-title: HTB  CAP
+title: HTB  KNIFE
 excerpt: "Máquina HTB - Knife - Dificultad:Easy"
 date: 07-11-2021
 classes: wide

@@ -33,7 +33,7 @@ tags:
 |-----------------------|
 |archivo.py|
 
-En esta máquina veremos una vulnerabilidad XXE y un poco de interpretacion con python, fundamentales para poder resolverla.
+En esta máquina veremos una vulnerabilidad XXE y un poco de interpretación con python, fundamentales para poder resolverla.
 
 # Nmap
 

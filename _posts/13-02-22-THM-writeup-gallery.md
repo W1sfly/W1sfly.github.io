@@ -21,6 +21,7 @@ tags:
 
 ![](/assets/images/post_THM_gallery/Screenshot_1.png)
 
+URL: <https://tryhackme.com/room/gallery666>
 
 # <ins>Resumen:</ins>
 
